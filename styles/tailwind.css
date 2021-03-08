@@ -24,6 +24,10 @@
   .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
     scroll-margin-top: 3.5em;
   }
+  .prose code {
+    @apply dark:text-indigo-300;
+  }
+
   .prose pre code {
     @apply overflow-x-auto !important 
   }
