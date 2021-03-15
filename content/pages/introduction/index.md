@@ -1,15 +1,13 @@
 ---
 title: Introduction.
-date: Last Modified 
+date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Introduction 
-  order: 0
-  title: Introduction
+key: Introduction
+order: 0
+title: Introduction
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
-
-
+`@nxpm/stack` is a set of schematics that generates an opinionated full-stack application in a Nx Workspace based on the PANNG Stack (Prisma, Angular, Nest, Nx, GraphQL).
 
 
  
