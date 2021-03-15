@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /guides/releasing-packages/index.html
 eleventyNavigation:
     key: RealisingPackages
-    order: 10
+    order: 11
     parent: Guides
     title: Releasing packages
 ---

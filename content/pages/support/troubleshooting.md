@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /support/troubleshooting/index.html
 eleventyNavigation:
     key: Troubleshooting
-    order: 12
+    order: 13
     parent: Support
     title: Releasing packages
 ---

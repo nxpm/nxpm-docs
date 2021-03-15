@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /commands/registry/index.html
 eleventyNavigation:
     key: Registry
-    order: 7
+    order: 8
     parent: Commands
     title: Registry
 ---
