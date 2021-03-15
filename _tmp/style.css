@@ -1329,6 +1329,12 @@ nav ul li a.active {
   margin-bottom: 0;
 }
 
+.space-x-2 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 0 !important;
+  margin-right: calc(0.5rem * var(--tw-space-x-reverse)) !important;
+  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse))) !important;
+}
+
 .space-y-4 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0 !important;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse))) !important;
@@ -1948,6 +1954,10 @@ nav ul li a.active {
 
 .w-6 {
   width: 1.5rem !important;
+}
+
+.w-12 {
+  width: 3rem !important;
 }
 
 .w-60 {
