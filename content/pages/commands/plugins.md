@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /commands/plugins/index.html
 eleventyNavigation:
     key: Plugins
-    order: 5
+    order: 6
     parent: Commands
     title: Plugins
 ---

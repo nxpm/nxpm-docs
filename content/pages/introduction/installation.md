@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /installation/index.html
 eleventyNavigation:
     key: Installation
-    order: 2
+    order: 3
     parent: Introduction
     title: Installation
 ---

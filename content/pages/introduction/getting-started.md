@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /getting-started/index.html
 eleventyNavigation:
     key: GettingStarted
-    order: 1
+    order: 2
     parent: Introduction
     title: Getting Started
 ---

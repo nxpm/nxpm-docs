@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /commands/projects/index.html
 eleventyNavigation:
     key: Projects
-    order: 6
+    order: 7
     parent: Commands
     title: Projects
 ---
